@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.junlaninfo
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/RabbitMq_springboot/Consumer
+Created-By: Maven Integration for Eclipse
+
